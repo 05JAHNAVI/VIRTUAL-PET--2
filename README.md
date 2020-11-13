@@ -1,3 +1,2 @@
 # VIRTUAL PET- 2
-Boiler plate for ball moving aysnchronously
-this was done jahnavi and teacher was Keerthana ma'am
+VIRTUAL PET- 2 was done jahnavi and teacher was Keerthana ma'am
